@@ -1,0 +1,126 @@
+site_name: "Première — Enseignement scientifique au Lycée de la méditerranée La Ciotat"
+site_description: Cours, activités et exercices de Physique Chimie en enseignement scientifique de première
+site_author: R. Hatterer
+site_url: https://raoulhatterer.github.io/pes # mkdocs serve
+site_dir: public
+#edit_uri: tree/main/docs/
+edit_uri: https://github.com/raoulhatterer/pes/tree/main/docs/
+
+docs_dir: docs
+
+nav:
+  - "🏡 Accueil": index.md
+  - ... | regex=^(?:(?!_REM.md).)*$
+
+theme:
+    name: material
+    custom_dir: my_theme_customizations
+
+    font: false                     # RGPD ; pas de fonte Google
+    language: fr                    # français
+    favicon: xtra/favPPC.png
+    
+    icon:
+      logo: material/application-variable
+
+    palette:                        # Palettes de couleurs jour/nuit
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: green
+        accent: green
+        toggle:
+            icon: material/weather-sunny
+            name: Passer au mode nuit
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: teal
+        accent: teal
+        toggle:
+            icon: material/weather-night
+            name: Passer au mode jour
+    features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.top
+        - toc.integrate
+        - header.autohide
+        - content.code.annotate 
+
+markdown_extensions:
+    - md_in_html                    # Permet <figcaption>Image caption</figcaption>
+    - meta
+    - abbr
+    - def_list                      # Les listes de définition.
+    - attr_list                     # Un peu de CSS et des attributs HTML.
+    - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
+    - admonition                    # Blocs colorés  !!! info "ma remarque"
+    - pymdownx.details              #   qui peuvent se plier/déplier.
+    - pymdownx.caret                # Passage ^^souligné^^ ou en ^exposant^.
+    - pymdownx.mark                 # Passage ==surligné==.
+    - pymdownx.tilde                # Passage ~~barré~~ ou en ~indice~.
+    - pymdownx.highlight:           # Coloration syntaxique du code
+        auto_title: true            # 
+        auto_title_map:
+          "Python": <span style="color:black">🐍 Script Python</span> # utliser py3 ou python
+          "Python Console Session": "🐍 Console Python" # utiliser pycon
+          "Text Only": "📋 Texte"
+          "E-mail": "📥 Entrée"
+          "Text Output": "📤 Sortie"
+    - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
+    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
+        custom_checkbox:    false   #   avec cases d'origine
+        clickable_checkbox: true    #   et cliquables.
+    - pymdownx.tabbed:              # Volets glissants.  === "Mon volet"
+        alternate_style: true 
+    - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
+        separator: "\uff0b"
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+          
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid          # Mermaid lets you create diagrams
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+
+    - pymdownx.arithmatex:
+        generic: true
+    - toc:
+        permalink: ⚓︎
+        toc_depth: 3
+
+#extra:
+#    social:
+#        - icon: fontawesome/brands/discourse
+#          link: https://mooc-forums.inria.fr/moocnsi/
+#          name: Le forum des enseignants de NSI
+#    site_url: https://e-nsi.gitlab.io/exp2/
+
+
+plugins:
+  - search
+  - exclude-search:           # exclusion de pages de la recherche
+      exclude:
+        - '**/hidden/**'      # utilisé pour exclure des répertoires entiers, peu importe où ils se trouvent dans votre structure de fichiers
+        - xtra/*.md           # inutile de chercher cela
+  - awesome-pages:            # Le plugin awesome-pages est une extension très utile qui vous permet de gérer la navigation de votre site (nav) de manière plus flexible, en utilisant des fichiers .pages au lieu d'avoir à tout lister manuellement dans mkdocs.yml
+        collapse_single_pages: true    # Cette option sert à simplifier la navigation de votre site en évitant les sous-menus à un seul élément. Elle nettoie l'interface utilisateur et la rend plus intuitive pour vos lecteurs.
+  - sqlite-console        
+  - macros
+
+
+      
+extra_javascript:
+  - xtra/config.js                    # MathJax
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - xtra/interpreter.js
+
+extra_css:
+  - stylesheets/extra.css
+  - xtra/pyoditeur.css
+  - xtra/ajustements.css                      # ajustements
