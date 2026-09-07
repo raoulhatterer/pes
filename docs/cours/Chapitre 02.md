@@ -1,4 +1,4 @@
-# 2. L'abondance des éléments chimiques
+# Chapitre 2 :  L'abondance des éléments chimiques
 
 {{ initexo(0) }}
 

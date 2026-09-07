@@ -1,4 +1,4 @@
-# 2. La radioactivité et ses applications
+# Chapitre 3 : La radioactivité et ses applications
 
 {{ initexo(0) }}
 

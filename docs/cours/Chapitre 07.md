@@ -1,4 +1,4 @@
-# 3. Les cristaux
+# Chapitre 4 : Les cristaux
 
 {{ initexo(0) }}
 
