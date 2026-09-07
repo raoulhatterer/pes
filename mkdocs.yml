@@ -18,7 +18,7 @@ theme:
 
     font: false                     # RGPD ; pas de fonte Google
     language: fr                    # français
-    favicon: xtra/favPPC.png
+    favicon: xtra/favPES.png
     
     icon:
       logo: material/application-variable
