@@ -1,4 +1,4 @@
-# Chapitre 4 : Les cristaux
+# Chapitre 4 : Les cristaux (page en travaux)
 
 {{ initexo(0) }}
 
@@ -97,7 +97,7 @@ Vmaille
 
 
 
-
+![image](./data/chap04NaCl.png){: .center width="300"}
 
 
 

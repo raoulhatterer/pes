@@ -1,6 +1,4 @@
 # Chapitre 1 : La naissance des éléments
-
-
 ##1. La théorie du big-bang
 
 

@@ -9,14 +9,11 @@
     - **Problèmes d'affichage :**{: .stabilo-rouge} **Rafraîchissez la page si certains éléments du cours s'affichent mal**{: .stabilo-vert} (formules manquantes ou incomplètes...). 
 
 # Consignes
-!!! note "Version pdf du cours"
-    En plus du [cours en ligne](./cours/Chapitre 01.md), une version pdf un peu plus concise est téléchargeable dans les [documents](./documents.md). Veillez à toujours avoir imprimé le chapitre suivant à l'avance ainsi lorsque l'on passera à un nouveau chapitre vous l'aurez à votre disposition.
-
-!!! note "Activités de travaux pratiques"
-    **Terminez** systématiquement de rédiger le dernier TP qui a eu lieu **et préparez** le suivant pour la prochaine séance de TP. 
+!!! note "Cours"
+    [Cours en ligne](./cours/Chapitre 01.md)
     
 !!! note "Vidéos"
-    À visionner en accompagnement de l'étude des différents chapitres.
+    Des vidéos sont à visionner en accompagnement de l'étude des différents chapitres.
         
 !!! note "Matériel"
     - Venir avec une **tablette** et une **calculatrice** suffisamment chargée.
