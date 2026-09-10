@@ -6,6 +6,11 @@ Cet émulateur est une version en ligne et gratuite de la calculatrice graphique
 [Accéder à l'émulateur graphique NumWorks](https://www.numworks.com/fr/emulateur/graphique/)
 
 
+## Mise à jour
+
+ Avec le navigateur Chrome, se connecter à son compte Numworks et **procéder à la mise à jour de la calculatrice pour disposer de toutes les fonctionnalités** présentées ici.
+
+
 ## Paramètres
 
 
