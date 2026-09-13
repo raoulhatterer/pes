@@ -13,7 +13,12 @@
     - [⚛️ ES1 naissance des éléments chimiques](data/ES1.pdf){:target="_blank"} (1h en classe entière)    
 
 !!! warning "Je dois savoir et savoir faire"
-    - à compléter
+    - Connaître la composition du noyau d’un élément.
+    - Connaître l’écriture symbolique d'un noyau et savoir l’exploiter.
+    - Âge de l’univers : Connaître le nom des différente étapes de la formation des éléments (nucléosynthèse primordiale, nucléosynthèse stellaire, nucléosynthèse explosive).
+    - Savoir identifier une réaction nucléaire de fusion et justifier  (en s’appuyant sur la valeur des Z et des A).
+    - Savoir identifier une réaction nucléaire de fission et justifier.
+    - S'assurer de la conservation des nombres de masse A et de charge Z.
 
 !!! success "Pour réviser"
     - étudier le cours
@@ -27,7 +32,8 @@
 
 
 !!! warning "Je dois savoir et savoir faire"
-    - à compléter
+    - Savoir quels sont les éléments principaux qui constituent l’Univers, le Soleil, la Terre, les êtres vivants.
+    - Savoir construire un diagramme circulaire et un diagramme à barres.
 
 !!! success "Pour réviser"
     - étudier le cours
