@@ -24,7 +24,7 @@
     - étudier le cours
     - exercices n°.....
 
-
+    
 
 !!! abstract "Abondance des éléments chimiques"
     - [Cours : Chapitre II](cours/Chapitre 02.md) 

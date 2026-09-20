@@ -2,6 +2,7 @@ nav:
     - Accueil : index.md
     - Cours en ligne : cours
     - Documents : documents.md
+    - Exercices : exercices.md
     - Corrections : corrections.md
     - Fiches méthodes : fiches-methodes.md
     - Numérique : numerique 

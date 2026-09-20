@@ -17,6 +17,7 @@
         
 !!! note "Matériel"
     - Venir avec une **tablette** et une **calculatrice** suffisamment chargée.
+    - Règle, compas, rapporteur.
     - **Les téléphones portables sont interdits** même en cas de panne ou d'oubli de la tablette ou de la [calculatrice](https://www.numworks.com/fr/simulateur/).
 
 
