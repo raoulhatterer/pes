@@ -39,3 +39,6 @@
     - étudier le cours
     - exercices n°.....
 
+!!! abstract "Radioactivité"
+    - [Cours : Chapitre III](cours/Chapitre 03.md) 
+    - [⚛️ ES3 Radioactivité](data/ES3.pdf){:target="_blank"} (1h en demi groupe)    
