@@ -12,7 +12,7 @@ Suivant votre classe le lien n'est pas le même.
 - 🔑 **Code d'inscription** (à n'utiliser qu'une fois par élève)
     - Le code à utiliser dépend de votre classe. Ce sera soit `p1svp` soit `p2svp` soit `p3svp` (sans espaces).
 - **Nom et prénom** : Attention à ne pas les inverser
-- **Identifiant** : Respectez le format suivant.
+- **Identifiant** : (respectez bien le format suivant)
     - Format : `prénom + 3 premières lettres du nom`
     - Exemple : Louis de Funès → `louisdef`
     - **Important** : Tout en minuscules sans accents ni espace
