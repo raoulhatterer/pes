@@ -18,7 +18,7 @@ Suivant votre classe le lien n'est pas le même.
     - **Important** : Tout en minuscules sans accents ni espace
 - 🔒 **Mot de passe**
     - Utilisez votre mot de passe **IACA** ou **Atrium** ainsi vous saurez toujours quoi mettre.
-    - Évitez d'utiliser d'autres mots de passe car même si je peux réinitialiser un mot de passe si vous l'avez oublié cela vous coûtera des points.
+    - Évitez d'utiliser d'autres mots de passe, car même si je peux réinitialiser un mot de passe si vous l'avez oublié, cela vous coûtera des points.
 
 ## ⚠️ Recommandations importantes
 - **Une seule inscription** : Ne créez qu'un seul compte. Tout compte supplémentaire sera automatiquement supprimé sans préavis. Seul le plus ancien sera conservé.
