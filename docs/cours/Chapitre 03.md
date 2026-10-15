@@ -99,6 +99,24 @@ Certains noyaux sont instables et se désintègrent pour former d'autres noyaux:
 Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour réaliser des examens exploratoires ou établir des diagnostics (radiographie, scintigraphie, TEP), la radiothérapie ou la curiethérapie consistant à irradier une tumeur. La radioactivité est également utilisée dans d'autres domaines comme l'archéologie ou la géologie pour dater des artefacts ou des roches.
 
 
+### Décroissance radioactive et demi-vie
+
+
+!!! info "Demi-vie"
+    Durée au bout de laquelle la moitié des noyaux radioactifs présents initialement a disparu.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cY_0uOm7610?si=wbJfiMxdR92_jM_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Déterminer la demi-vie d'un noyau radioactif
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6MMr8cSP_lw?si=_O4CnuBZk76Bh7wb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Comment mesurer l'âge des choses grâce au Carbone 14 ?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n3z9AEqSwFU?si=clzK1UCCpkwYijXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## C. Les précautions à prendre
 Les rayonnements émis par les noyaux radioactifs peuvent pénétrer les tissus vivants et altérer le fonctionnement des cellules. Il est donc nécessaire de prendre des précautions (port de protections, durée d'exposition limitée).
 
