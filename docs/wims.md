@@ -29,6 +29,7 @@ Suivant votre classe le lien n'est pas le même.
     - Je ne peux pas supprimer de notes
     - Désactivez la notation pour vous entraîner (c'est de votre responsabilité)
     - Réactivez-la seulement quand vous maîtrisez l'exercice
+    - Il y a un nombre minimum de répétitions à faire par exercice (par exemple si les points requis sont de 30, il faut faire l’exercice au minimun 3 fois car 3x10=30)
     - Les travaux seront considérés rendus en retard par rapport à la date que vous aura donnée votre professeur sur Pronote (les dates de fermetures de classe ou d'activités indiquées sur le site Wims ne vous concernent pas).
     
 
