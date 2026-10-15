@@ -96,7 +96,7 @@ Certains noyaux sont instables et se désintègrent pour former d'autres noyaux:
 
 
 ## B. Les applications actuelles
-Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour réaliser des examens exploratoires ou établir des diagnostics (radiographie, scintigraphie, TEP), la radiothérapie ou la curiethérapie consistant à irradier une tumeur. La radioactivité est également utilisée dans d'autres domaines comme l'archéologie ou la géologie pour dater des objet façonnés ou des roches.
+Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour réaliser des examens exploratoires ou établir des diagnostics (radiographie, scintigraphie), la radiothérapie ou la curiethérapie consistant à irradier une tumeur. La radioactivité est également utilisée dans d'autres domaines comme l'archéologie ou la géologie pour dater des objet façonnés ou des roches.
 
 
 ### Décroissance radioactive et demi-vie
