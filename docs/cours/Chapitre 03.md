@@ -111,11 +111,9 @@ Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MMr8cSP_lw?si=_O4CnuBZk76Bh7wb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Comment mesurer l'âge des choses grâce au Carbone 14 ?
+### La datation par le carbone 14
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n3z9AEqSwFU?si=clzK1UCCpkwYijXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CMsK_EuGKkw?si=jUe4b_yDcyo_ZJVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## C. Les précautions à prendre
 Les rayonnements émis par les noyaux radioactifs peuvent pénétrer les tissus vivants et altérer le fonctionnement des cellules. Il est donc nécessaire de prendre des précautions (port de protections, durée d'exposition limitée).
