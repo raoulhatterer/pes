@@ -96,20 +96,42 @@ Certains noyaux sont instables et se désintègrent pour former d'autres noyaux:
 
 
 ## B. Les applications actuelles
-Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour réaliser des examens exploratoires ou établir des diagnostics (radiographie, scintigraphie, TEP), la radiothérapie ou la curiethérapie consistant à irradier une tumeur. La radioactivité est également utilisée dans d'autres domaines comme l'archéologie ou la géologie pour dater des artefacts ou des roches.
+Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour réaliser des examens exploratoires ou établir des diagnostics (radiographie, scintigraphie, TEP), la radiothérapie ou la curiethérapie consistant à irradier une tumeur. La radioactivité est également utilisée dans d'autres domaines comme l'archéologie ou la géologie pour dater des objet façonnés ou des roches.
 
 
 ### Décroissance radioactive et demi-vie
 
 
-!!! info "Demi-vie"
-    Durée au bout de laquelle la moitié des noyaux radioactifs présents initialement a disparu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cY_0uOm7610?si=wbJfiMxdR92_jM_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Déterminer la demi-vie d'un noyau radioactif
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MMr8cSP_lw?si=_O4CnuBZk76Bh7wb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+!!! info "Demi-vie"
+    Durée au bout de laquelle la moitié des noyaux radioactifs présents initialement a disparu.
+
+
+
+!!! example "{{ exercice() }} : La demi-vie"
+    === "Énoncé"
+        Choisir la ou les bonnes réponses en justifiant.
+        
+        La demi-vie c'est :
+        
+        a. $\displaystyle N=\frac{N_0}{2}$
+        
+        b. Une durée
+        
+        c. Un pourcentage égal à 50%
+    === "Correction"
+        a. Faux
+        
+        b. Vrai
+        
+        La demi-vie est une durée pas un nombre de noyaux ou un pourcentage. C'est la durée au bout de laquelle la moitié du  nombre initial de noyaux radioactifs dans un échantillon a disparu.
+        
 
 ### La datation par le carbone 14
 
