@@ -115,6 +115,11 @@ Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CMsK_EuGKkw?si=jUe4b_yDcyo_ZJVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ej074yhuIto?si=-_CWx4yFRNrKzPnH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## C. Les précautions à prendre
 Les rayonnements émis par les noyaux radioactifs peuvent pénétrer les tissus vivants et altérer le fonctionnement des cellules. Il est donc nécessaire de prendre des précautions (port de protections, durée d'exposition limitée).
 
