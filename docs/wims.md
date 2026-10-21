@@ -9,8 +9,16 @@ Suivant votre classe le lien n'est pas le même.
 - [Lien direct vers Wims P3](https://wims.univ-cotedazur.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=authparticipant&class=5655384&subclass=yes)
 
 ## 👤 Création du compte
-- 🔑 **Code d'inscription** (à n'utiliser qu'une fois par élève)
-    - Le code à utiliser dépend de votre classe. Ce sera soit `p1svp` soit `p2svp` soit `p3svp` (sans espaces).
+
+![image](./data/wims_inscription.png)    
+
+- 🔑 **Le code d'inscription** est à saisir en bas de page et à n'utiliser qu'une fois par élève). Le code à utiliser dépend de votre classe. Ce sera soit `p1svp` soit `p2svp` soit `p3svp` (sans espaces). Il vous permet d'accéder au formulaire d'inscription suivant :
+    
+![image](./data/wims_formulaire.png)    
+    
+    
+    
+    
 - **Nom et prénom** : Attention à ne pas les inverser
 - **Identifiant** : (respectez bien le format suivant)
     - Format : `prénom + 3 premières lettres du nom`
