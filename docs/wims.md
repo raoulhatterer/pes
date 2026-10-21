@@ -14,7 +14,7 @@ Suivant votre classe le lien n'est pas le même.
 
 - 🔑 **Le code d'inscription** est à saisir en bas de page et à n'utiliser qu'une fois par élève). Le code à utiliser dépend de votre classe. Ce sera soit `p1svp` soit `p2svp` soit `p3svp` (sans espaces). Il vous permet d'accéder au formulaire d'inscription suivant :
     
-![image](./data/wims_formulaire.png)    
+![image](./data/wims_formulaire_inscription.png)    
     
     
     
