@@ -12,13 +12,25 @@ Les cristaux, des édifices ordonnées
 
 ## 1. Les structures cristallines des solides ##
 
+
+On appelle solide tout système qui possède une forme propre.
+
+
 ### A. Des solides cristallins ou amorphes ###
 
-- On appelle solide tout système qui possède une forme propre.
-- On distingue les solides cristallins constitués d'une répétition quasi parfaite d'arrangements d'entités chimiques (atomes, ions, molécules) dans les trois directions de l'espace et les solides amorphes correspondant à un état liquide figé et pour lesquels il n'y a pas d'ordre au-delà d'une échelle moléculaire.
+
+On distingue :
+
+- **les solides cristallins** constitués d'une **répétition quasi parfaite d'arrangements** d'entités chimiques (atomes, ions, molécules) dans les trois directions de l'espace ;
+- **les solides amorphes** correspondant à un état liquide figé et pour lesquels **il n'y a pas d'ordre** au-delà d'une échelle moléculaire.
+
+### B. Organisation des motifs dans un  cristal 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IffX_ZiW2sM?si=dUtRpsyV-DaMRKzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### B. De la structure cristalline à la masse volumique ###
+
+### C. De la structure cristalline à la masse volumique ###
 
 - On appelle **maille** l'unité de répétition d'un cristal par translation. En se répétant indéfiniment dans les trois dimensions de l'espace, elle définit le réseau cristallin. Sa forme la plus simple est celle d'un cube de côté a appelé paramètre de maille.
 - Connaissant le nombre d'entités appartenant à la maille et leurs masses, il est possible de remonter
