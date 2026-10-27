@@ -29,6 +29,49 @@ On distingue :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IffX_ZiW2sM?si=dUtRpsyV-DaMRKzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+La relation fondamentale est :
+
+Structure cristalline =  motif (matériel) + réseau de Bravais (abstrait)
+
+!!! Success "Le motif cristallin"
+    C'est le contenu matériel répété à l'identique dans le cristal : un atome, des ions, une molécule ou un groupe d'atomes/molécules. 
+
+!!! Success "La maille"
+    C'est le plus petit volume géométrique (généralement un parallélépipède) qui, par translation du motif selon ses vecteurs de base, permet de reconstruire le cristal entier. Elle définit la périodicité du réseau. La maille n'est donc pas le motif : elle est la « boîte » de répétition dans laquelle le motif est placé.
+
+
+Il faut bien distinguer trois niveaux :
+
+- Le réseau de Bravais : l'ensemble abstrait des nœuds, défini par les vecteurs de translation.
+- Le motif : le contenu répété.
+- La population de la maille : le nombre d'atomes/ions réellement contenus dans le volume de la maille après découpage (les atomes des sommets comptant pour 1/8, etc.). Ce n'est pas le motif.
+
+
+
+!!! example "Exemple : chlorure de césium (CsCℓ) versus fer α"
+    === "Énoncé"
+        Les deux structures ont la même apparence géométrique (« 8 sommets + 1 centre »), mais ce ne sont pas le même type de cristal.
+
+        
+    === "Fer α"
+        - Vrai réseau cubique centré ![image](./data/chap04fer_alpha.jpg)
+        - Réseau de Bravais : cubique I (centré).
+        - Motif : 1 atome de Fe (le même sur chaque nœud, sommet comme centre).
+        - **La translation (½,½,½) est une symétrie de translation du cristal : elle amène un nœud sur un nœud équivalent.**
+        - Population de la maille conventionnelle : 8×1/8 + 1 = 2 atomes.
+    === "CsCℓ"
+        - Ce n'est pas un vrai réseau cubique centré ![image](./data/chap04CsCl.png){width="300"} [chlorure de césium (CsCℓ)](https://www.chemtube3d.com/_csclfinal/)
+        - Réseau de Bravais : cubique P (simple).
+        - Motif : 2 ions (1 Cs⁺ + 1 Cℓ⁻, séparés par (½,½,½)).
+        - **La translation (½,½,½) n'est pas une symétrie : elle échange Cs⁺ et Cl⁻, qui sont différents.**
+        - Population de la maille conventionnelle : 1 Cs⁺ + 8×1/8 Cℓ⁻ = 2 ions.
+        
+        !!! danger "Attention"
+            - L'image des « deux sous-réseaux cubiques simples imbriqués, décalés de (½,½,½) » est commode pour visualiser CsCℓ, mais la description rigoureuse est : **un seul réseau (cubique P) + un motif de 2 ions**. 
+            - De même, dire que CsCℓ est « cubique centré » ne décrit que l'apparence géométrique, pas son réseau de Bravais.
+
+
+
 
 ### C. De la structure cristalline à la masse volumique ###
 
