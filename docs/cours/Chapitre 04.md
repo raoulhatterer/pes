@@ -7,16 +7,21 @@ Les cristaux, des édifices ordonnées
 ## 1. Les structures cristallines des solides 
 
 
-On appelle solide tout système qui possède une forme propre.
+
 
 
 ### A. Des solides cristallins ou amorphes 
 
 
-On distingue :
+On appelle solide tout système qui possède une forme propre. On distingue :
 
-- **les solides cristallins** constitués d'une **répétition quasi parfaite d'arrangements** d'entités chimiques (atomes, ions, molécules) dans les trois directions de l'espace ;
-- **les solides amorphes** correspondant à un état liquide figé et pour lesquels **il n'y a pas d'ordre** au-delà d'une échelle moléculaire.
+- **les solides amorphes** correspondant à un état liquide figé et pour lesquels **il n'y a pas d'ordre** au-delà d'une échelle moléculaire ;
+- **les solides cristallins** constitués d'une **répétition quasi parfaite d'arrangements** d'entités chimiques (atomes, ions, molécules) dans les trois directions de l'espace.
+
+**Pas de malentendu :**
+On se limite ici à un cas idéal, c'est-à-dire aux solides cristallins dont l'organisation est supposée parfaitement régulière. Un cristal présente en réalité de nombreux défauts.
+
+
 
 ### B. Organisation des motifs dans un  cristal 
 
@@ -28,9 +33,9 @@ On distingue :
     Un « type cristallin » est défini par la forme géométrique de la maille ainsi que par la nature et la position dans cette maille des entités qui la constituent.
 
 !!! Success "La maille"
-    C'est le plus petit volume géométrique (généralement un parallélépipède) qui, par translation du motif selon ses vecteurs de base, permet de reconstruire le cristal entier. Elle définit la périodicité du réseau. La maille n'est donc pas le motif : elle est la « boîte » de répétition dans laquelle le motif est placé.  
+    On appelle **maille** l'unité de répétition d'un cristal par translation. En se répétant indéfiniment dans les trois dimensions de l'espace, elle définit le réseau cristallin. C'est le plus petit volume géométrique qui, par translation du motif selon ses vecteurs de base, permet de reconstruire le cristal entier. Elle définit la périodicité du réseau. Attention, la maille n'est donc pas le motif : elle est la « boîte » de répétition dans laquelle le motif est placé. Sa forme la plus simple est celle d'un cube de côté **a** appelé paramètre de maille.  
     
-    Il existe quatorze réseaux de Bravais dans l'espace à trois dimensions.  
+    Il existe quatorze réseaux de Bravais dans l'espace à trois dimensions dont les mailles sont :  
     ![image](./data/chap04mailles.png)
     
 
@@ -69,9 +74,6 @@ Il faut bien distinguer trois niveaux :
 
 
 
-#### Pas de malentendu 
-
-On se limite ici à un cas idéal, c'est-à-dire aux solides cristallins dont l'organisation est supposée parfaitement régulière. Un cristal présente en réalité de nombreux défauts.
 
 
 !!! info "Le saviez-vous ?"
@@ -84,11 +86,31 @@ On se limite ici à un cas idéal, c'est-à-dire aux solides cristallins dont l'
 
 
 
-### C. De la structure cristalline à la masse volumique 
+### C. Les caractéristiques d’un cristal 
 
-- On appelle **maille** l'unité de répétition d'un cristal par translation. En se répétant indéfiniment dans les trois dimensions de l'espace, elle définit le réseau cristallin. Sa forme la plus simple est celle d'un cube de côté a appelé paramètre de maille.
-- Connaissant le nombre d'entités appartenant à la maille et leurs masses, il est possible de remonter
-à des propriétés macroscopiques du solide cristallin comme sa	ρ :
+#### La multiplicité 
+
+
+!!! info "Multiplicité"
+    On appelle multiplicité d’une maille le nombre d’entités que compte cette maille.
+
+Méthode de calcul du  nombre d'entités (ou multiplicité) noté Z ou N  par maille :
+
+1. Déterminer le nombre de mailles élémentaires adjacentes entre lesquelles se partage chaque sphère (entités).
+2. En déduire la portion (fraction) de chaque sphère contenue dans la maille (1 ; ½ ; ¼, etc.)
+3. Déterminer alors le nombre d’entités chimiques contenues dans la maille.
+
+
+#### La compacité
+
+La compacité est la mesure du taux de remplissage de l’espace dans un cristal. 
+
+
+
+### D. De la structure cristalline à la masse volumique 
+
+Connaissant le nombre d'entités appartenant à la maille et leurs masses, il est possible de remonter
+à des propriétés macroscopiques du solide cristallin comme sa masse volumique ρ :
 
 $$ρ = \frac{m_{\text{entités}}}{V_{\text{maille}}}$$
 
