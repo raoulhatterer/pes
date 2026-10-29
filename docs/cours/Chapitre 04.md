@@ -22,16 +22,22 @@ On distingue :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IffX_ZiW2sM?si=dUtRpsyV-DaMRKzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+!!! Success "Le type cristallin"
+    Structure cristalline = réseau de Bravais (abstrait) + motif (matériel)
+    
+    Un « type cristallin » est défini par la forme géométrique de la maille ainsi que par la nature et la position dans cette maille des entités qui la constituent.
 
-La relation fondamentale est :
-
-Structure cristalline =  motif (matériel) + réseau de Bravais (abstrait)
+!!! Success "La maille"
+    C'est le plus petit volume géométrique (généralement un parallélépipède) qui, par translation du motif selon ses vecteurs de base, permet de reconstruire le cristal entier. Elle définit la périodicité du réseau. La maille n'est donc pas le motif : elle est la « boîte » de répétition dans laquelle le motif est placé.  
+    
+    Il existe quatorze réseaux de Bravais dans l'espace à trois dimensions.  
+    ![image](./data/chap04mailles.png)
+    
 
 !!! Success "Le motif cristallin"
     C'est le contenu matériel répété à l'identique dans le cristal : un atome, des ions, une molécule ou un groupe d'atomes/molécules. 
 
-!!! Success "La maille"
-    C'est le plus petit volume géométrique (généralement un parallélépipède) qui, par translation du motif selon ses vecteurs de base, permet de reconstruire le cristal entier. Elle définit la périodicité du réseau. La maille n'est donc pas le motif : elle est la « boîte » de répétition dans laquelle le motif est placé.
+
 
 
 Il faut bien distinguer trois niveaux :
