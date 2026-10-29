@@ -2,15 +2,16 @@
 
 {{ initexo(0) }}
 
-Les cristaux, des édifices ordonnées
+!!! info "Le saviez-vous ?"
+    Certaines bactéries, dites magnétotactiques, forment des **cristaux** intracellulaires de magnétite (un oxyde de fer). Ceux-ci possèdent des propriétés magnétiques, permettant à ces bactéries de percevoir la direction du champ magnétique terrestre et de s'orienter par rapport à la direction de ce champ.
+   
+!!! info "Le saviez-vous ?"
+    La chrysotile Mg<sub>3</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>, bien plus connu sous le nom d'amiante, est un silicate de magnésium (ou éventuellement de calcium) qui **cristallise** en formant de fines fibres. Présentant des propriétés très intéressantes, comme sa capacité à isoler thermiquement ou à protéger contre le feu, l'amiante a été massivement employée au cours du XXe siècle dans le secteur du bâtiment notamment. Néanmoins, ce matériau est toxique et libère des fibres dans l'air provoquant l'apparition de divers cancers par inhalation. Il est interdit en France depuis 1997.
 
-## 1. Les structures cristallines des solides 
 
+## 1. Les cristaux, des édifices ordonnées
 
-
-
-
-### A. Des solides cristallins ou amorphes 
+### A. Solides cristallins et solides amorphes, quelles différences ? 
 
 
 On appelle solide tout système qui possède une forme propre. On distingue :
@@ -74,13 +75,6 @@ Il faut bien distinguer trois niveaux :
 
 
 
-
-
-!!! info "Le saviez-vous ?"
-    Certaines bactéries, dites magnétotactiques, forment des cristaux intracellulaires de magnétite (un oxyde de fer). Ceux-ci possèdent des propriétés magnétiques, permettant à ces bactéries de percevoir la direction du champ magnétique terrestre et de s'orienter par rapport à la direction de ce champ.
-   
-!!! info "Le saviez-vous ?"
-    La chrysotile Mg<sub>3</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>, bien plus connu sous le nom d'amiante, est un silicate de magnésium (ou éventuellement de calcium) qui cristallise en formant de fines fibres. Présentant des propriétés très intéressantes, comme sa capacité à isoler thermiquement ou à protéger contre le feu, l'amiante a été massivement employée au cours du XXe siècle dans le secteur du bâtiment notamment. Néanmoins, ce matériau est toxique et libère des fibres dans l'air provoquant l'apparition de divers cancers par inhalation. Il est interdit en France depuis 1997.
 
 
 
