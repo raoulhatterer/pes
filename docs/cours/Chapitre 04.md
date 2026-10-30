@@ -82,10 +82,9 @@ Il faut bien distinguer trois niveaux :
 
 ### C. Les caractéristiques d’un cristal 
 
-#### La multiplicité 
 
 
-!!! info "Multiplicité"
+!!! info "La multiplicité"
     On appelle multiplicité d’une maille le nombre d’entités que compte cette maille.  
     ![image](./data/chap04multi.png)
     
@@ -97,11 +96,13 @@ Méthode de calcul du  nombre d'entités (ou multiplicité) noté Z ou N  par ma
 3. Déterminer alors le nombre d’entités chimiques contenues dans la maille.
 
 
-#### La compacité
-
-La compacité est la mesure du taux de remplissage de l’espace dans un cristal. 
-
-
+!!! info "La compacité"
+    - La compacité d’une structure cristalline est la mesure du taux de remplissage de l’espace dans un cristal.  
+    Elle est définie par :
+    \(\displaystyle C = \frac{\text{volume occupé par les entités}}{\text{volume de la maille}}\)
+    - La compacité  est un nombre inférieur à 1 et sans unité.
+    - Les entités sont des sphères : le volume occupé par les entités s’écrira donc \(V_e=Z\times\frac{4}{3}\pi r^3 \)
+    - Le volume de la maille dépendra se la forme géométrique de cette dernière. Pour une maille cubique de côté **a**, on a  \(V_m=a^3\)
 
 ### D. De la structure cristalline à la masse volumique 
 
