@@ -86,7 +86,9 @@ Il faut bien distinguer trois niveaux :
 
 
 !!! info "Multiplicité"
-    On appelle multiplicité d’une maille le nombre d’entités que compte cette maille.
+    On appelle multiplicité d’une maille le nombre d’entités que compte cette maille.  
+    ![image](./data/chap04multi.png)
+    
 
 Méthode de calcul du  nombre d'entités (ou multiplicité) noté Z ou N  par maille :
 
