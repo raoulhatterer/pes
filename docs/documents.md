@@ -41,4 +41,11 @@
 
 !!! abstract "Radioactivité"
     - [Cours : Chapitre III](cours/Chapitre 03.md) 
-    - [⚛️ ES3 Radioactivité](data/ES3.pdf){:target="_blank"} (1h en demi groupe)    
+    - [⚛️ ES3 Radioactivité](data/ES3.pdf){:target="_blank"} (1h en demi groupe)  
+    - [⚛️ ES4 Courbe de décroissance radioactive & temps de demi-vie](data/ES4.pdf){:target="_blank"} (1h en demi groupe)  
+    - [⚛️ ES5 La datation carbone](data/ES5.pdf){:target="_blank"} (1h en demi groupe)  
+    - [⚛️ ES6 Scintigraphie](data/ES6.pdf){:target="_blank"} (1h en demi groupe)  
+    
+!!! abstract "Cristaux"
+    - [Cours : Chapitre IV](cours/Chapitre 04.md) 
+    - [⚛️ ES7 Les cristaux](data/ES7.pdf){:target="_blank"} (1h en demi groupe)  
