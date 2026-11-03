@@ -45,7 +45,21 @@
     - [⚛️ ES4 Courbe de décroissance radioactive & temps de demi-vie](data/ES4.pdf){:target="_blank"} (1h en demi groupe)  
     - [⚛️ ES5 La datation carbone](data/ES5.pdf){:target="_blank"} (1h en demi groupe)  
     - [⚛️ ES6 Scintigraphie](data/ES6.pdf){:target="_blank"} (1h en demi groupe)  
-    
+
+!!! warning "Je dois savoir et savoir faire"
+
+!!! success "Pour réviser"
+    - étudier le cours
+    - exercices n°.....
+
+
+
 !!! abstract "Cristaux"
     - [Cours : Chapitre IV](cours/Chapitre 04.md) 
     - [⚛️ ES7 Les cristaux](data/ES7.pdf){:target="_blank"} (1h en demi groupe)  
+
+!!! warning "Je dois savoir et savoir faire"
+
+!!! success "Pour réviser"
+    - étudier le cours
+    - exercices n°.....
