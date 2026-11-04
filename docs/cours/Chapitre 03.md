@@ -130,6 +130,8 @@ Plusieurs techniques médicales reposent sur la radioactivité : l'imagerie pour
         
         b. Vrai
         
+        c. Faux  
+        
         La demi-vie est une durée pas un nombre de noyaux ou un pourcentage. C'est la durée au bout de laquelle la moitié du  nombre initial de noyaux radioactifs dans un échantillon a disparu.
         
 
